@@ -33,10 +33,11 @@ aside .text-center h1 a{
 }
 .img-circle{
     margin: 10px;
-    border:2px solid grey;
-    border-radius: 500px;
-    -webkit-border-radius: 500px;
-    -moz-border-radius: 500px;
+    border:2px solid white;
+    border-radius: 450px;
+    -webkit-border-radius: 450px;
+    -moz-border-radius: 450px;
+    size:80%;
 }
 
 .img-responsive{
